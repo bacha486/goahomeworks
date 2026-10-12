@@ -1,0 +1,7 @@
+user_name = input('Enter your name: ')
+user_age = input('Enter your age: ')
+user_hight = input('Enter your height: ')
+print(" ")
+print('users name is: ' + user_name)
+print('users age is: ' + user_age)
+print('users height is: ' + user_hight)
