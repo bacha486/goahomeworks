@@ -1,0 +1,7 @@
+user_name = input('what is your full name?: ')
+user_age = input('how old are you?: ')
+user_favorite_color = input('what is your favorite color?: ')
+print(" ")
+print('user full name: ' + user_name)
+print('user age: ' + user_age)
+print('user favorite color: ' + user_favorite_color)
