@@ -1,0 +1,6 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+print(" ")
+print("first number is greater than second?: " + str(num1 > num2))
+print("first number is smaller than second?: " + str(num1 < num2))
+print("first number is equal to second?: " + str(num1 == num2))
