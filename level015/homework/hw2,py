@@ -1,0 +1,3 @@
+students = ['luka','nika','anna','gio']
+students.sort()
+print(students)
